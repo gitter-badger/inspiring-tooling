@@ -1,5 +1,7 @@
 # inspiringsolutions-tooling
 
+[![Join the chat at https://gitter.im/pKonieczniak/inspiring-tooling](https://badges.gitter.im/pKonieczniak/inspiring-tooling.svg)](https://gitter.im/pKonieczniak/inspiring-tooling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 << badges placeholder >>
 
 ## What is this
